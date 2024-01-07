@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/*  font - class */
+.font-400 {
+  font-family: "Lora", serif;
+  font-weight: 400;
+}
+.font-500 {
+  font-family: "Lora", serif;
+  font-weight: 500;
+}
+.font-500-italic {
+  font-family: "Lora", serif;
+  font-weight: 500;
+}
+.font-600-italic {
+  font-family: "Lora", serif;
+  font-weight: 500;
+}
